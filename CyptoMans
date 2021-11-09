@@ -1,0 +1,11 @@
+ {
+    "project": "CryptoMans",
+    "tags": [
+        "CryptoMans"
+    ],
+    "policies": [
+      "Prlicy1",
+      "Prlicy2",
+      "Prlicy3"
+    ]
+}
